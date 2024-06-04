@@ -1,0 +1,22 @@
+server: google.com 80
+commands: 111
+commands: vvv
+commands: GET / HTTP/1.1
+commands: GET / HTTP/1.1
+commands: vvv
+commands: 11111
+commands: GET / HTTP/1.1
+commands: GET / HTTP/1.1
+commands: ggggg
+
+server: 127.0.0.1 10007
+commands: siunciu
+commands: siunciu
+
+server: mif.vu.lt 80
+commands: GET / HTTP/1.1
+commands: GET / HTTP/1.0
+commands: GET/lt3 /HTTP/1.1
+commands: GET /lt3/ HTTP/1.1
+commands: GET /lt3/ HTTP/1.1
+
